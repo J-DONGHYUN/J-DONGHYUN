@@ -28,7 +28,7 @@ I am focusing on **Java and Spring** while learning how server-side systems and 
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=spring,mysql" />
 </p>
 
 ### Tools
