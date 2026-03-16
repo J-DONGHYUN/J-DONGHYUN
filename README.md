@@ -57,7 +57,7 @@ I am focusing on Java and Spring while learning how server-side systems and web 
 
 ## 📫 Contact
 
-- GitHub : https://github.com/J-DONGHYUN
+- Email: dongza8101@naver.com
 
 ---
 
