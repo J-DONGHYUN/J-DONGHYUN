@@ -18,7 +18,7 @@ I am focusing on **Java and Spring** while learning how server-side systems and 
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,js,ts,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=c,java,js,ts,html,css,sql,mysql" />
 </p>
 
 ### Frontend / Mobile
