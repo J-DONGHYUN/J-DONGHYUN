@@ -1,17 +1,16 @@
 # Hi there 👋 I'm Donghyun
 
-I'm a Computer Science graduate currently learning **Backend Development**.
-
-I'm interested in understanding how systems work and building reliable server-side applications using **Java and Spring**.
+컴퓨터공학을 전공한 졸업생이며 현재 **백엔드 개발자**를 목표로 공부하고 있습니다.  
+Java와 Spring을 중심으로 서버 개발과 웹 서비스 구조를 이해하는 과정에 있습니다.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science Graduate  
-- 🌱 Preparing for an **AI-based Backend (Java) training program**  
-- 💡 Interested in **Backend Development & System Design**  
-- 🤝 Strong communication and respectful collaboration  
+- 🎓 컴퓨터공학 전공
+- 🌱 AI 기반 백엔드(Java) 국비 교육 과정 준비 중
+- 💻 서버 개발과 시스템 구조를 이해하는 것에 관심이 있습니다
+- 🤝 존중 기반 커뮤니케이션과 협업을 중요하게 생각합니다
 
 ---
 
@@ -24,7 +23,7 @@ I'm interested in understanding how systems work and building reliable server-si
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 ### Tools
@@ -36,18 +35,18 @@ I'm interested in understanding how systems work and building reliable server-si
 
 ## 🌱 Currently Learning
 
-- Java Backend Development  
-- Spring Framework  
-- RESTful API Design  
-- Database Design  
+- Java 기반 백엔드 개발
+- Spring Framework
+- REST API 설계
+- 데이터베이스 설계
 
 ---
 
 ## 💡 Strength
 
-- Communication
-- Respectful collaboration
-- Problem-solving mindset
+- 원활한 커뮤니케이션
+- 존중 기반 협업
+- 문제 해결 중심 사고
 
 ---
 
@@ -57,4 +56,4 @@ I'm interested in understanding how systems work and building reliable server-si
 
 ---
 
-⭐ *This profile will continue to grow as I learn and build more projects.*
+⭐ 이 GitHub 프로필은 공부와 프로젝트가 진행되면서 계속 업데이트될 예정입니다.
