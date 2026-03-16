@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Donghyun
 
-I am a Computer Science graduate currently studying to become a **Backend Developer**.  
-I am focusing on **Java and Spring** while learning how server-side systems and web services work.
+I am currently studying to become a Backend Developer.
+I am focusing on Java and Spring while learning how server-side systems and web services work.
 
 ---
 
