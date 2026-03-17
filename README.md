@@ -45,12 +45,9 @@ Java와 Spring을 기반으로 서버 사이드 시스템을 이해하고,
 
 ---
 
-
-## 📊 GitHub Activity
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=J-DONGHYUN&show_icons=true&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=J-DONGHYUN&show_icons=true)
 
 ---
 
