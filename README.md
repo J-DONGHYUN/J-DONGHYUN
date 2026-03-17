@@ -54,11 +54,10 @@ Java와 Spring을 기반으로 서버 사이드 시스템을 이해하고,
 
 ---
 
-## 💡 강점
+## 📊 GitHub Activity
 
-- 원활한 커뮤니케이션
-- 존중 기반 협업
-- 문제 해결 중심 사고
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-DONGHYUN&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=J-DONGHYUN&show_icons=true)
 
 ---
 
