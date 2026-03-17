@@ -15,7 +15,7 @@ Java와 Spring을 기반으로 서버 사이드 시스템을 이해하고,
 
 ---
 
-## 🛠 기술 스택
+## 🛠 Teck Stacks
 
 ### 💻 Language
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -51,7 +51,7 @@ Java와 Spring을 기반으로 서버 사이드 시스템을 이해하고,
 
 ---
 
-## 📫 연락처
+## 📫 Email
 
 - Email: dongza8101@naver.com
 
