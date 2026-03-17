@@ -45,18 +45,11 @@ Java와 Spring을 기반으로 서버 사이드 시스템을 이해하고,
 
 ---
 
-## 🌱 현재 학습 중
-
-- Java 백엔드 개발
-- Spring Framework
-- RESTful API 설계
-- 데이터베이스 설계
-
----
 
 ## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-DONGHYUN&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=J-DONGHYUN&show_icons=true&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=J-DONGHYUN&show_icons=true)
 
 ---
