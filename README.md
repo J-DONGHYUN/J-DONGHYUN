@@ -1,64 +1,64 @@
-# Hi there 👋 I'm Donghyun
+# 안녕하세요 👋 저는 장동현입니다
 
-I am currently studying to become a **Backend Developer**.
-I am focusing on Java and Spring while learning how server-side systems and web services work.
+현재 **백엔드 개발자**를 목표로 공부하고 있습니다.  
+Java와 Spring을 중심으로 서버 사이드 시스템과 웹 서비스 동작 원리를 학습하고 있습니다.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science, Sejong University
-- 🌱 Preparing for an **AI-based Backend (Java) training program**
-- 💻 Interested in backend development and system architecture
-- 🤝 I value respectful communication and collaborative problem solving
+- 🎓 세종대학교 컴퓨터공학 전공
+- 🌱 **AI 기반 백엔드(Java) 교육 과정 준비 중**
+- 💻 백엔드 개발 및 시스템 아키텍처에 관심이 있습니다
+- 🤝 존중 기반의 커뮤니케이션과 협업을 중요하게 생각합니다
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 
-### Languages
+### 💻 Language
 <p>
 <img src="https://skillicons.dev/icons?i=c,java,js,ts,html,css,mysql" />
 </p>
 
-### Frontend / Mobile
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-### Backend
+### 🖥 Backend
 <p>
 <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
-### Tools
+### 🎨 Frontend / Mobile
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma" />
+<img src="https://skillicons.dev/icons?i=react,reactnative" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 현재 학습 중
 
-- Java Backend Development
+- Java 백엔드 개발
 - Spring Framework
-- RESTful API Design
-- Database Design
+- RESTful API 설계
+- 데이터베이스 설계
 
 ---
 
-## 💡 Strength
+## 💡 강점
 
-- Communication
-- Respectful collaboration
-- Problem-solving mindset
+- 원활한 커뮤니케이션
+- 존중 기반 협업
+- 문제 해결 중심 사고
 
 ---
 
-## 📫 Contact
+## 📫 연락처
 
 - Email: dongza8101@naver.com
 
 ---
 
-⭐ This GitHub profile will continue to grow as I learn and build more projects.
+⭐ 이 GitHub 프로필은 앞으로 프로젝트와 함께 계속 성장할 예정입니다.
